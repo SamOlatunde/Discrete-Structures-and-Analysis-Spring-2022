@@ -1,0 +1,18 @@
+Samuel Olatunde 
+Program 2: Relations and functions
+
+Relation 1: (1,2), (2,1), (3,4), (4,5), (5,3) 
+	-is a function and has a one-to-one  correspondence. 
+
+Relation 2: (1,1), (2,1), (3,4), (4,3) 
+	-is a function and is general. 
+
+Relation 3: (1,3), (2,1), (3,4), (4,1), (5,2) 
+	-is a function and is general. 
+
+Relation 4: (1,4), (2,2), (3,1), (3,1), (4,3) 
+	-is a function and is one-to-one. 
+
+Relation 5: (1,1), (2,3), (3,2), (3,1), (4,5), (5,4) 
+	-is not a function. 
+
